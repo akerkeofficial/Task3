@@ -1,0 +1,14 @@
+total 52
+drwxrwxr-x  6 hiyandao101 hiyandao101 4096 Нау  7 15:00 .
+drwxrwxr-x 41 hiyandao101 hiyandao101 4096 Нау  7 14:59 ..
+drwxrwxr-x  3 hiyandao101 hiyandao101 4096 Нау  7 14:59 app
+-rw-rw-r--  1 hiyandao101 hiyandao101  498 Нау  7 14:59 build.gradle
+drwxrwxr-x  8 hiyandao101 hiyandao101 4096 Нау  7 14:59 .git
+-rw-rw-r--  1 hiyandao101 hiyandao101  118 Нау  7 14:59 .gitignore
+drwxrwxr-x  3 hiyandao101 hiyandao101 4096 Нау  7 14:59 gradle
+-rw-rw-r--  1 hiyandao101 hiyandao101  730 Нау  7 14:59 gradle.properties
+-rwxrwxr-x  1 hiyandao101 hiyandao101 4971 Нау  7 14:59 gradlew
+-rw-rw-r--  1 hiyandao101 hiyandao101 2404 Нау  7 14:59 gradlew.bat
+drwxrwxr-x  3 hiyandao101 hiyandao101 4096 Нау  7 14:59 .idea
+-rw-rw-r--  1 hiyandao101 hiyandao101   15 Нау  7 14:59 settings.gradle
+-rw-rw-r--  1 hiyandao101 hiyandao101    0 Нау  7 15:00 tester.txt
