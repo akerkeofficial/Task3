@@ -1,0 +1,39 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@color/Blue">
+    <EditText
+        android:id="@+id/et"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Write 'hello' to chat with Me"
+        ></EditText>
+
+    <ListView
+        android:id="@+id/lv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/btnStart"></ListView>
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClickStart"
+        android:text="Send"
+        android:layout_alignBaseline="@+id/et"
+        android:layout_alignBottom="@+id/et"
+        android:layout_toRightOf="@+id/et"
+        android:layout_marginLeft="33dp"
+        android:layout_marginStart="33dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="#8c96ff"
+        android:layout_gravity="center_horizontal|bottom"
+        android:fontFamily="trebuchet ms">
+    </Button>
+</RelativeLayout>
